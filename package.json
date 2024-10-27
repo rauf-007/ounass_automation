@@ -1,0 +1,32 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node customreporter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@argos-ci/playwright": "^1.4.1",
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^20.10.4",
+    "allure-playwright": "^2.9.2",
+    "playwright": "^1.46.1"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.0",
+    "browserstack-local": "^1.5.5",
+    "chai": "^4.4.1",
+    "chai-as-promised": "^7.1.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
+    "mailosaur": "^8.6.1",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^22.10.0"
+  }
+}

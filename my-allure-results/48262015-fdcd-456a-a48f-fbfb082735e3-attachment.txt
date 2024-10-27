@@ -1,0 +1,2 @@
+Total sum of prices: 5055
+Subtotal value: 5055
